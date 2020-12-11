@@ -178,5 +178,7 @@ if __name__ == '__main__':
         #print (get_function(PYTHON_LAMBDA_NAME))
         #print (get_all_functions())
         #increase_lambda_execution_memory(PYTHON_LAMBDA_NAME, 256)
-        delete_lambda_function(NODEJS_LAMDA_NAME)
+        #delete_lambda_function(NODEJS_LAMDA_NAME)
+
+
 
